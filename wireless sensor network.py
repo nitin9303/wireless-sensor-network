@@ -105,10 +105,3 @@ def nodes_graph():
     
 nodes_graph()    
 
-
-matplot simulation.py
-
-
-
-
-Page 22 of 57 
